@@ -1,6 +1,7 @@
-var express = require('express');
+// var express = require('express');
 var path = require('path');
-var app = express();
+// var app = express();
+// same comment as in apiRoutes about not needing to instantiate another express app.
 
 module.exports = function(app) {
 
